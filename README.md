@@ -5,8 +5,8 @@ Flash_Card
 This app display a question and several possible answers, with click actions on the answers textview
 ### App Walk-though
 
-<img src="https://github.com/Woodley01/Flashcard-/blob/master/flashcardgif.gif" width=500 height=500><br>
-<img src="https://github.com/Woodley01/Flashcard-/blob/master/WhatsApp%20Image%202024-03-18%20at%206.52.44%20AM.jpeg" width=500 height=500><br>
+<img src="https://github.com/Woodley01/Flashcard-/blob/master/flashcardgif.gif" width=600 ><br>
+<img src="https://github.com/Woodley01/Flashcard-/blob/master/WhatsApp%20Image%202024-03-18%20at%206.52.44%20AM.jpeg" width=600 ><br>
 <img src="https://github.com/Woodley01/Flashcard-/blob/master/WhatsApp%20Image%202024-03-18%20at%206.52.59%20AM.jpeg" width=200><br>
 <img src="https://github.com/Woodley01/Flashcard-/blob/master/WhatsApp%20Image%202024-03-18%20at%206.54.10%20AM.jpeg" width=200><br>
 
