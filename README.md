@@ -2,10 +2,10 @@ Flash_Card
 
 
 ### App Description
-
+This app display a question and several possible answers, with click actions on the answers textview
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/Woodley01/Flashcard-/blob/master/flashcardgif.gif" width=200><br>
 
 
 ## Required
